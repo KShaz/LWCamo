@@ -37,7 +37,7 @@ Hardware, training, and timing record
 - Inference mode: enabled
 - Warm-up iterations: at least 50
 - Timed iterations: at least 300
-- Device synchronization: enabled through output tensor materialization
+- Device synchronization: enabled 
 - Disk loading, image decoding, and prediction saving excluded: yes
 - Mean latency (ms): to be measured for each model variant
 - Latency standard deviation (ms): to be measured for each model variant
