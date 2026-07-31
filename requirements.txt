@@ -1,0 +1,6 @@
+tensorflow==2.15.1
+tf-keras==2.15.1
+transformers==4.46.3
+opencv-python-headless==4.10.0.84
+pysodmetrics==1.6.2
+numpy==1.26.4

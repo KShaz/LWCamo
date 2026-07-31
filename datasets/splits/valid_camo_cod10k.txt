@@ -1,0 +1,1 @@
+# Populate with a held-out subset drawn only from the CAMO/COD10K training pool.

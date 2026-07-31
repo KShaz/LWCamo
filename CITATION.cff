@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use LWCamo, please cite the accompanying manuscript."
+title: "LWCamo: A Lightweight Transformer-CNN Framework with Split Convolutional Attention for Camouflaged Object Detection"
+type: software
+version: 1.0.0
+license: MIT
+date-released: 2026-07-31
+authors:
+  - family-names: "Shehzad"
+    given-names: "Khurram"
+  - family-names: "Rehman"
+    given-names: "Saeed-ur-Rehman"
+  - family-names: "Fayyaz"
+    given-names: "Muhammad"
+  - family-names: "Alahmadi"
+    given-names: "Tahani Jaser"
+  - family-names: "Nobanee"
+    given-names: "Haitham"
+  - family-names: "Rehman"
+    given-names: "Amjad"

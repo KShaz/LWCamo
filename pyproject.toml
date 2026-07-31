@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lwcamo"
+version = "1.0.0"
+description = "Lightweight Transformer-CNN framework for camouflaged object detection"
+readme = "README.md"
+requires-python = ">=3.10,<3.12"
+license = {text = "MIT"}
+dependencies = [
+  "tensorflow==2.15.1",
+  "tf-keras==2.15.1",
+  "transformers==4.46.3",
+  "opencv-python-headless==4.10.0.84",
+  "pysodmetrics==1.6.2",
+  "numpy==1.26.4"
+]
+
+[tool.setuptools.packages.find]
+include = ["lwcamo*"]

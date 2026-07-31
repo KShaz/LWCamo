@@ -1,0 +1,2 @@
+# Populate with the training portion of CAMO + COD10K only.
+# Example: ../CAMO/Imgs/train_001.jpg ../CAMO/GT/train_001.png
