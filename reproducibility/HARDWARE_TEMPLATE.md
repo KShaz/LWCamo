@@ -39,9 +39,9 @@ Hardware, training, and timing record
 - Timed iterations: at least 300
 - Device synchronization: enabled 
 - Disk loading, image decoding, and prediction saving excluded: yes
-- Mean latency (ms): to be measured for each model variant
+- FPS: measured/preserved from original experiment\
+- Mean latency: derived as 1000/FPS
 - Latency standard deviation (ms): to be measured for each model variant
-- FPS: calculate as `1000 / mean latency in ms`
 - Peak GPU inference memory: to be measured for each model variant
 
 | Variant | Mean latency | SD | FPS | Peak memory |
