@@ -13,4 +13,4 @@ results/metrics/<dataset>.json
 results/benchmarks/<variant>.json
 ```
 
-Do not commit checkpoints, raw prediction maps, or large training artifacts to the source branch. Publish checkpoints and prediction archives as versioned release assets with SHA-256 checksums. Small JSON/CSV summaries may be committed after their provenance is recorded.
+
