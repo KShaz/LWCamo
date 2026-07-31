@@ -15,3 +15,23 @@
 - FPS derived from mean latency:
 - Peak inference memory:
 - MAC/FLOP counting convention:
+- Exact A100 variant and VRAM: 40 GB or 80 GB.
+- Google Colab runtime type.
+- CPU model and system RAM, if available.
+- TensorFlow, Python, CUDA, cuDNN, and NVIDIA driver versions.
+- Numerical precision: FP32, mixed FP16, or another mode.
+- Training batch size: currently specified as 8 in the code.
+- Optimizer: Adam.
+- Maximum epochs: 400, with early stopping.
+- Random seed: 42.
+- Exact pretrained checkpoints: nvidia/mit-b0, nvidia/mit-b2, and nvidia/mit-b5.
+- Training and validation dataset composition.
+- Inference batch size: 1.
+- Warm-up iterations: at least 50.
+- Timed iterations: at least 300.
+- Device synchronization during timing.
+- Whether image loading and prediction saving were excluded.
+- Mean latency and standard deviation.
+- FPS calculation method.
+- Peak inference-memory measurement method.
+- MAC/FLOP counting tool and convention.
