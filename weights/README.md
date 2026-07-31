@@ -1,6 +1,8 @@
 # Weights
 
-No checkpoint is bundled with the source tree. Publish genuinely trained `.keras` checkpoints as GitHub release assets rather than committing large binaries to Git.
+No checkpoint is bundled with the source tree. 
+
+large binaries to Git is problem.
 
 For every released checkpoint, record:
 
@@ -10,5 +12,3 @@ For every released checkpoint, record:
 - training and validation manifest checksums;
 - TensorFlow, CUDA, cuDNN, driver, and GPU versions;
 - model-selection criterion and selected epoch.
-
-Never publish a dummy or randomly initialized file under a production checkpoint name.
