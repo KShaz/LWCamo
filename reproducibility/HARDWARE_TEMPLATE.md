@@ -13,7 +13,7 @@ Hardware, training, and timing record
 - TensorFlow version: tf-keras==2.18.0   /   keras==3.1.0
 - Python version: Python  3.10
 - NVIDIA driver version: RTX 3060 Ti
-- cuDNN version: to be retrieved from the experiment runtime
+- cuDNN version: cuDNN version 9.3 paired with CUDA 12.5.
 
 ## Confirmed training configuration
 
