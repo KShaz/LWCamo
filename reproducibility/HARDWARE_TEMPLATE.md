@@ -10,7 +10,7 @@ Hardware, training, and timing record
 - Numerical precision: FP32
 - Input image and mask size: 512 x 512
 - Deep-learning framework: TensorFlow
-- TensorFlow version: tf-keras==2.18.0   /   keras==3.1.0
+- TensorFlow version: TensorFlow 2.18.0 and tf-keras==2.18.0   /   keras==3.1.0
 - Python version: Python  3.10
 - NVIDIA driver version: RTX 3060 Ti
 - cuDNN version: cuDNN version 9.3 paired with CUDA 12.5.
