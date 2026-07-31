@@ -2,7 +2,7 @@
 
 Hardware, training, and timing record
 
-## Confirmed environment
+## Environment
 
 - Platform: Google Colab Pro
 - GPU model: NVIDIA A100
@@ -15,7 +15,7 @@ Hardware, training, and timing record
 - NVIDIA driver version: RTX 3060 Ti
 - cuDNN version: cuDNN version 9.3 paired with CUDA 12.5.
 
-## Confirmed training configuration
+## Training Configuration
 
 - Model variants: LWCamo-S (MiT-B0), LWCamo-M (MiT-B2), and LWCamo-L (MiT-B5)
 - Encoder initialization: ImageNet-pretrained `nvidia/mit-b0`, `nvidia/mit-b2`, and `nvidia/mit-b5`
