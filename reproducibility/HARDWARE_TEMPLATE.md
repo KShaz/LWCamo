@@ -12,8 +12,7 @@ Hardware, training, and timing record
 - Deep-learning framework: TensorFlow
 - TensorFlow version: tf-keras==2.18.0   /   keras==3.1.0
 - Python version: Python  3.10
-- NVIDIA driver version: to be retrieved from the experiment runtime
-- CUDA version: to be retrieved from the experiment runtime
+- NVIDIA driver version: RTX 3060 Ti
 - cuDNN version: to be retrieved from the experiment runtime
 
 ## Confirmed training configuration
