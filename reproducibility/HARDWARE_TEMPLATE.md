@@ -10,7 +10,7 @@ Hardware, training, and timing record
 - Numerical precision: FP32
 - Input image and mask size: 512 x 512
 - Deep-learning framework: TensorFlow
-- TensorFlow version: tf-keras==2.18.0
+- TensorFlow version: tf-keras==2.18.0   /   keras==3.1.0
 - Python version: to be retrieved from the experiment runtime
 - NVIDIA driver version: to be retrieved from the experiment runtime
 - CUDA version: to be retrieved from the experiment runtime
