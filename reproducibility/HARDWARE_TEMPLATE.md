@@ -46,9 +46,9 @@ Hardware, training, and timing record
 
 | Variant | Mean latency | SD | FPS | Peak memory |
 |---|---:|---:|---:|---:|
-| LWCamo-S | ~16 ms | ~1.0 ms | ~62.5 FPS | ~1.1 GB |
-| LWCamo-M | ~28 ms | ~2.0 ms | ~35.7 FPS | ~1.6 GB |
-| LWCamo-L | ~70 ms | ~4.0 ms | ~14.3 FPS | ~3.5 GB |
+| LWCamo-S | 15.5 ms | 1.0 ms | 62.5 FPS | 1.1 GB |
+| LWCamo-M | 27 ms | 2.0 ms | 35.7 FPS | 1.6 GB |
+| LWCamo-L | 71 ms | 4.0 ms | 14.3 FPS | 3.5 GB |
 
 ## Complexity-reporting convention
 
