@@ -11,7 +11,7 @@ Hardware, training, and timing record
 - Input image and mask size: 512 x 512
 - Deep-learning framework: TensorFlow
 - TensorFlow version: tf-keras==2.18.0   /   keras==3.1.0
-- Python version: to be retrieved from the experiment runtime
+- Python version: Python  3.10
 - NVIDIA driver version: to be retrieved from the experiment runtime
 - CUDA version: to be retrieved from the experiment runtime
 - cuDNN version: to be retrieved from the experiment runtime
